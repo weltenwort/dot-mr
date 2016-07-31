@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dot-mr.git]
+checkout = vcsh clone git@github.com:weltenwort/dot-mr.git dot-mr
