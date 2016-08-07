@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dot-zsh.git]
+checkout = vcsh clone git@github.com:weltenwort/dot-zsh.git dot-zsh
