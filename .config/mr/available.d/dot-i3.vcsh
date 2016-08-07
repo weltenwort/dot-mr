@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dot-i3.git]
+checkout = vcsh clone git@github.com:weltenwort/dot-i3.git dot-i3
