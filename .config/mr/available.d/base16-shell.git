@@ -1,0 +1,2 @@
+[$HOME/.config/base16-shell]
+checkout = git clone git@github.com:chriskempson/base16-shell.git $MR_REPO
