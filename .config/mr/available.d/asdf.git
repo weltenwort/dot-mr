@@ -1,0 +1,2 @@
+[$HOME/.asdf]
+checkout = git clone --branch v0.4.2 https://github.com/asdf-vm/asdf.git $MR_REPO

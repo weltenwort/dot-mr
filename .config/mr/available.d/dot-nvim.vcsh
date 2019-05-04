@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dot-nvim.git]
+checkout = vcsh clone git@github.com:weltenwort/dot-nvim.git dot-nvim

@@ -1,0 +1,2 @@
+[$HOME/.awesome-modules/awesome-wm-widgets]
+checkout = git clone git@github.com:streetturtle/awesome-wm-widgets.git $MR_REPO

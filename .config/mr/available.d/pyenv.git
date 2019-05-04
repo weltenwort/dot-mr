@@ -1,0 +1,2 @@
+[$HOME/.pyenv]
+checkout = git clone git@github.com:pyenv/pyenv.git $MR_REPO
